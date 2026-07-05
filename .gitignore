@@ -1,0 +1,22 @@
+# Environments
+.env
+.venv
+venv/
+env/
+.env*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ruff_cache/
+
+# ADK
+.adk/
+.persist_vector_store
+.google-agents-cli/
+artifacts/
+.history/
