@@ -147,11 +147,11 @@ graph TD
 ## Assets
 
 ### Workflow Diagram
-![Workflow Diagram](nutrimind-ai/assets/architecture_diagram.png)
+![Workflow Diagram](assets/architecture_diagram.png)
 
 ### Cover Banner
-![Cover Banner](nutrimind-ai/assets/cover_page_banner.png)
+![Cover Banner](assets/cover_page_banner.png)
 
 ## Demo Script
-Refer to [nutrimind-ai/DEMO_SCRIPT.txt](nutrimind-ai/DEMO_SCRIPT.txt) for spoken presentation guidelines.
+Refer to [DEMO_SCRIPT.txt](DEMO_SCRIPT.txt) for spoken presentation guidelines.
 
